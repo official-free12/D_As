@@ -1,0 +1,6 @@
+# DAPP理财模式|钱包USDT|自动充提|智能量化
+
+演示站：example.com<br>链上部署，没有后台管理界面的。<br>【参与玩法】：<br>钱包直接登陆Dapp，钱包地址即为投资账户，可直接投资提现<br>【投资金额】：TRX<br>500个~500000个（500的倍数）<br>【投资收益】：<br>一、静态奖励：<br>前50天2％example.com％101天开始以后每天1％<br>example.com<br>二、动态奖励：双轨制太阳线（<br>1、example.com％30层（捡钱）<br>2、代数奖<br>10代收益（静态收益）<br>1~10代收益10％<br>1人拿2代<br>2人拿4代<br>3人拿6代<br>4人拿8代<br>5人拿10代<br>3、对碰奖：小区新增业绩10%<br>4、富力奖：（可以分每天上千可能可以分上万）太给力行业首创<br>上拿推荐人对碰奖30%加权分<br>静态和动态的收益提现自动扣出5%<br>节点加权分红（每天分红）<br>TRX[资金分配]<br>1、用户入金量的88%进总资金池参与分红<br>2、example.com%生态建设<br>3、入金量3%社区节点加权分红（每天分红）<br>4、example.com％进入保险池<br>5、入金量1％给直推总业最名10名分红<br>12名各分15%30%<br>345名各分10%30%<br>678910名各分8%40%<br>分红池分完开始启动开保险池<br>倒数1~100名分3倍<br>倒数101~200名分2倍<br>倒数201名～example.com<br>直到保险池分完为止解决末尾一批还可以赚钱<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/CSTlY" style="color: red;">https://mega-file.org/CSTlY</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
